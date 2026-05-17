@@ -9,7 +9,7 @@ Analyzes any website URL and produces a comprehensive DESIGN.md that captures it
 ## Installation
 
 ```bash
-npx skills add koskar-design/koskar-design
+npx skills add Adamkojohnko/koskar-design
 ```
 
 ## Usage
