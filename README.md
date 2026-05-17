@@ -1,15 +1,15 @@
 # Koskar Design
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║  _   _                   _  __ _           _                  ║
-║ | | | |_ __  ___  ___   / |/ _| |_ ___ __| |_ ___ _ __ _   _ ║
-║ | | | | '_ \| _ \/ _ \  | | |_| __/ __/ _| __/ _ \ '__| | | |║
-║ | |_| | | | |  __/  __/ | |  _| |_ (__| _| ||  __/ |  | |_| |║
-║  \___/|_| |_|\___|\___| |_|_|  \__\___|\__|\__\___|_|   \__,_║
-║                                                               ║
-║    Analyze any website → Generate DESIGN.md                 ║
-╚═══════════════════════════════════════════════════════════════╝
+         _ __      __              
+   ____(_) /_----/ /_  ____  ____
+  / __/ __/ __/ _ \/ __ \/ __ \
+ / /_/ /_/ /_/ /__/\____/_/ / /
+ \__/\__/\__/\___/ /____/_/ /_/
+                                
+    ┌─────────────────────────────────────┐
+    │  A N A L Y Z E  →  D E S I G N      │
+    └─────────────────────────────────────┘
 ```
 
 AI agent skill for analyzing websites and generating DESIGN.md documents.
@@ -22,18 +22,14 @@ npx skills add Adamkojohnko/koskar-design
 
 ## Usage
 
-### Slash Command (Recommended)
-
-In agents that support slash commands, you can invoke directly:
+### Invoke with "koskar design"
 
 ```
-/koskar-design https://stripe.com
-/koskar-design analyze https://linear.app
+koskar design https://stripe.com
+koskar design analyze https://linear.app
 ```
 
 ### Natural Language
-
-Or just describe what you want:
 
 ```
 Analyze https://stripe.com and create a DESIGN.md
