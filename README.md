@@ -58,4 +58,10 @@ Claude Code, Codex, Cursor, OpenCode, and other CLI agents that support the Skil
 
 ---
 
-Coming soon: website and webapp for public access.
+## Website
+
+Visit [koskar-design.vercel.app](https://koskar-design.vercel.app) for the landing page.
+
+---
+
+Coming soon: webapp for public access.
