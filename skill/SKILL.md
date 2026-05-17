@@ -9,10 +9,27 @@ This skill helps an AI agent analyze any website and produce a comprehensive DES
 
 ## When to Use
 
+- User invokes `/koskar-design` with a URL (slash command style)
 - User gives you a URL and asks to "analyze" or "reverse-engineer" it
 - User wants a "design document" or "design.md" for a site
 - User says "what's the design system of this site?"
 - User wants to clone/imitate a site's visual style
+
+## Invocation Patterns
+
+### Slash Command
+```
+/koskar-design https://stripe.com
+/koskar-design analyze https://linear.app
+```
+
+### Natural Language
+```
+Analyze https://stripe.com and create a DESIGN.md
+Reverse-engineer the design of https://linear.app
+What's the design system of https://apple.com?
+Create a design doc for https://figma.com
+```
 
 ## How to Use
 
