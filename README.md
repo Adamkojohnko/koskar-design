@@ -1,17 +1,5 @@
 # Koskar Design
 
-```
-         _ __      __              
-   ____(_) /_----/ /_  ____  ____
-  / __/ __/ __/ _ \/ __ \/ __ \
- / /_/ /_/ /_/ /__/\____/_/ / /
- \__/\__/\__/\___/ /____/_/ /_/
-                                
-    ┌─────────────────────────────────────┐
-    │  A N A L Y Z E  →  D E S I G N      │
-    └─────────────────────────────────────┘
-```
-
 AI agent skill for analyzing websites and generating DESIGN.md documents.
 
 ## Installation
